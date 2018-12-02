@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light|Source+Sans+Pro:400,700");
+
+h1, h2, h3, h4 {
+    font-size: 38px;
+    font-weight: 700;
+    font-family: "Source Sans Pro", sans-serif;
+  }
+  
+  .script-font {
+    font-family: 'Shadows Into Light', cursive;
+  }
+  
